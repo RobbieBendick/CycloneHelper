@@ -1,0 +1,7 @@
+## Interface: 30400
+## Author: Mageiden
+## Title: CycloneHelper
+## Notes: Helps time a cyclone off of another cyclone.
+## DefaultState: enabled
+## Version: v0.0.1
+CycloneHelper.lua
